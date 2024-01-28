@@ -450,3 +450,4 @@ This is a commit for kotlin
 This is a commit for swift
 This is a commit for php
 This is a commit for c
+This is a commit for scala
