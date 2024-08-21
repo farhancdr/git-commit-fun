@@ -1459,3 +1459,4 @@ This is a commit for javascript
 This is a commit for rust
 This is a commit for c
 This is a commit for php
+This is a commit for haskell
